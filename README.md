@@ -1,7 +1,7 @@
 # Marketing-Campaign-Analysis
 
 ## Project Overview: Customer Demographics & Marketing Campaign Performance
-Author: Monika Griecs-Farkas, 
+Author: Monika Griecs-Farkas,
 Location: Winchester, United Kingdom
 
 ## Objective
