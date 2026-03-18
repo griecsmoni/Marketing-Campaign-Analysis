@@ -1,13 +1,13 @@
 # Marketing-Campaign-Analysis
 
-##Project Overview: Customer Demographics & Marketing Campaign Performance
+## Project Overview: Customer Demographics & Marketing Campaign Performance
 Author: Monika Griecs-Farkas
 Location: Winchester, United Kingdom
 
-##Objective
+## Objective
 This project analyses the relationship between customer demographics, social media usage, and the return on investment (ROI) of marketing campaigns. Using a dataset of 5,000 observations from Kaggle, the goal was to explore how platform preferences differ across age groups and how these differences drive purchasing behaviour.
 
-##Methodology
+## Methodology
 
 Exploratory Data Analysis (EDA): Data cleaning and descriptive statistics to establish baseline metrics.
 
@@ -23,4 +23,4 @@ Purchasing Behaviour: Customer purchasing frequency and average order value rema
 
 ROI Predictability: Cluster analysis revealed no strict, data-driven pattern between advertising spend and ROI.
 
-##Conclusion: Campaign success cannot be reliably predicted using only demographic and financial data. Qualitative elements—such as creative execution, emotional appeal, and messaging quality—remain crucial drivers of consumer decision-making and overall profitability.
+## Conclusion: Campaign success cannot be reliably predicted using only demographic and financial data. Qualitative elements—such as creative execution, emotional appeal, and messaging quality—remain crucial drivers of consumer decision-making and overall profitability.
