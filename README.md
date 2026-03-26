@@ -1,4 +1,4 @@
-# Marketing-Campaign-Analysis
+# Marketing-Campaign-Analysis (simulation-based study)
 
 ## Project Overview: Customer Demographics & Marketing Campaign Performance
 ### Author: Monika Griecs-Farkas,
